@@ -35,13 +35,20 @@ Background in Python & Django strengthens my ability to design **modern, scalabl
 - Integrated GitHub Actions for syntax validation
 - Followed clean & modern ABAP practices
 
+**Sales Order Header & Item ALV Report (SAP ABAP)**
+- Developed an interactive ALV Grid report for Sales Order header data
+- Implemented drill-down navigation (Header → Item) using USER_COMMAND
+- Designed a dynamic selection screen for Sales Order filtering
+- Enabled hotspot-based navigation on Sales Order number
+- Displayed item-level data in a secondary ALV Grid
+- Followed modular programming using FORMs and reusable logic
+- Used standard SAP tables: VBAK, VBAP, KNA1
+
 **Caphys Food App (Django)**
 - Full-stack restaurant application
 - Secure authentication & dynamic menu management
 
-**LinkedIn Job Scraper (Python)**
-- Selenium + BeautifulSoup
-- JSON/CSV output, logging, CLI-based execution
+
 
 ---
 
